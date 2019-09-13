@@ -9,7 +9,8 @@ Swap all pairs in all words
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qu (input)
 oLerm piusm odolr ist mate, ocsnceetutr dapisiicgn leti. uQ (output)
-lab1
+
+# lab1
 Count the Position in Words
 
 gpu qq  a hello   sonoda (input) 
@@ -19,6 +20,7 @@ Find the Heads
 gpu qq  a hello   sonoda (input) 
 123012001012345000123456 (output from above) 
 0,4,8,10,18 (output) 
+
 # lab2
 Perlin Noise
 
